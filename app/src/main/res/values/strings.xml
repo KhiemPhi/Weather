@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Weather</string>
+    <string name ="default_city">Stony Brook</string>
+    <string name = "default_date">May 29 2020, 20:08 PM</string>
+    <string name = "error_message">Sorry, Something Went Wrong</string>
+    <string name = "default_status">Clear Sky</string>
+    <string name = "default_temp">29°C</string>
+    <string name = "default_min_temp">Min Temp: 05:05 AM</string>
+    <string name = "default_max_temp">Max Temp: 05:05 AM</string>
+    <string name = "sunrise">Sunrise</string>
+    <string name = "sunset">Sunset</string>
+    <string name = "wind">Wind</string>
+    <string name = "humidity">Humidity</string>
+    <string name = "pressure">Pressure</string>
+    <string name = "default_time">06:40 AM</string>
+    <string name = "created_by">Created By:</string>
+    <string name = "creator">Khiem Phi</string>
+    <string name = "see_weather">See Weather</string>
+</resources>
